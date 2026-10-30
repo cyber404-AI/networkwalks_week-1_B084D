@@ -70,7 +70,7 @@ nslookup networkwalks.com
 
 **Expected result:** A successful DNS response containing the resolved address.
 
-**Evidence:** `dns-lookup.png`
+
 
 ### 2.6 Nmap Installation Verification
 
@@ -83,9 +83,7 @@ nmap --version
 
 **Expected result:** Nmap version information is displayed.
 
-**Evidence:** `nmap-version.png`
 
-*Note: Nmap testing should only be performed against systems you own or have explicit permission to assess.*
 
 ### 2.7 Virtual Machine Snapshot
 
