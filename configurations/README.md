@@ -1,15 +1,15 @@
-Configuration Scope
+Configuration Scope:
 
-The documentation covers:
+1.The documentation covers:
 
-Virtualization platform and VM specifications
+2.Virtualization platform and VM specifications
 
-Network adapter configuration
+3.Network adapter configuration
 
-NAT network details
+4.NAT network details
 
-Kali Linux IPv4 configuration
+5.Kali Linux IPv4 configuration
 
-Gateway and DNS settings
+6.Gateway and DNS settings
 
-Shared folder and clipboard configuration
+7.Shared folder and clipboard configuration
