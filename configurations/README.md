@@ -1,5 +1,15 @@
-# Configuration Notes
+Configuration Scope
 
-Store sanitized configuration notes from my own VMware and Kali environment here.
+The documentation covers:
 
-Do not copy configuration files containing credentials, private keys, VPN profiles, tokens, or other secrets. Record only the settings needed to explain and reproduce the lab.
+Virtualization platform and VM specifications
+
+Network adapter configuration
+
+NAT network details
+
+Kali Linux IPv4 configuration
+
+Gateway and DNS settings
+
+Shared folder and clipboard configuration
